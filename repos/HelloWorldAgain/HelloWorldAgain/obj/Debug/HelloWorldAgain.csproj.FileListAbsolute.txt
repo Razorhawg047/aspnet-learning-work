@@ -1,0 +1,7 @@
+C:\Users\Artie\source\repos\HelloWorldAgain\HelloWorldAgain\bin\Debug\HelloWorldAgain.exe.config
+C:\Users\Artie\source\repos\HelloWorldAgain\HelloWorldAgain\bin\Debug\HelloWorldAgain.exe
+C:\Users\Artie\source\repos\HelloWorldAgain\HelloWorldAgain\bin\Debug\HelloWorldAgain.pdb
+C:\Users\Artie\source\repos\HelloWorldAgain\HelloWorldAgain\obj\Debug\HelloWorldAgain.csprojResolveAssemblyReference.cache
+C:\Users\Artie\source\repos\HelloWorldAgain\HelloWorldAgain\obj\Debug\HelloWorldAgain.csproj.CoreCompileInputs.cache
+C:\Users\Artie\source\repos\HelloWorldAgain\HelloWorldAgain\obj\Debug\HelloWorldAgain.exe
+C:\Users\Artie\source\repos\HelloWorldAgain\HelloWorldAgain\obj\Debug\HelloWorldAgain.pdb

@@ -1,0 +1,7 @@
+C:\Users\Artie\source\repos\PayrollApp\PayrollApp\obj\Debug\PayrollApp.csprojResolveAssemblyReference.cache
+C:\Users\Artie\source\repos\PayrollApp\PayrollApp\obj\Debug\PayrollApp.csproj.CoreCompileInputs.cache
+C:\Users\Artie\source\repos\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe.config
+C:\Users\Artie\source\repos\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe
+C:\Users\Artie\source\repos\PayrollApp\PayrollApp\bin\Debug\PayrollApp.pdb
+C:\Users\Artie\source\repos\PayrollApp\PayrollApp\obj\Debug\PayrollApp.exe
+C:\Users\Artie\source\repos\PayrollApp\PayrollApp\obj\Debug\PayrollApp.pdb

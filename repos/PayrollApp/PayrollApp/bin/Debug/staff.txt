@@ -1,0 +1,4 @@
+Rick, Manager
+Xavier, Manager
+Roberto, Admin
+Lisa, Admin
